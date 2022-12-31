@@ -8,18 +8,18 @@
   color: #fff;
 
   &--top-left {
-    top: 1em;
+    top: 60px;
     left: 1em;
   }
 
   &--top-center {
-    top: 1em;
+    top: 60px;
     left: 50%;
     transform: translateX(-50%);
   }
 
   &--top-right {
-    top: 1em;
+    top: 60px;
     right: 1em;
   }
 
@@ -50,7 +50,7 @@
     &--top-left,
     &--top-center,
     &--top-right {
-      top: 0;
+      top: 60px;
       transform: translateX(0);
     }
 
